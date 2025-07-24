@@ -1,0 +1,13 @@
+ID,Product,Category,Price,Quantity,Rating,Date
+1,Wireless Mouse,Electronics,29.99,150,4.5,2023-01-15
+2,Bluetooth Headphones,Electronics,89.99,75,4.2,2023-01-16
+3,Notebook,Stationery,4.99,500,4.7,2023-01-17
+4,Coffee Mug,Home,12.99,200,4.8,2023-01-18
+5,Desk Lamp,Home,35.50,120,4.3,2023-01-19
+6,Backpack,Accessories,45.75,90,4.6,2023-01-20
+7,Smart Watch,Electronics,199.99,50,4.4,2023-01-21
+8,Water Bottle,Accessories,18.99,300,4.9,2023-01-22
+9,Keyboard,Electronics,59.95,100,4.1,2023-01-23
+10,Monitor Stand,Electronics,39.99,80,4.0,2023-01-24
+11,Stapler,Stationery,8.50,250,4.5,2023-01-25
+12,Pen Set,Stationery,15.99,180,4.6,2023-01-26
